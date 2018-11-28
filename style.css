@@ -1,0 +1,37 @@
+.messageBox {
+
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.flexBox{
+
+    display: flex;
+    justify-items: center;
+    justify-content: space-around;
+
+}
+
+#textBoxRed {
+
+    display: flex;
+    border: 2px solid darkred;
+    justify-items: center;
+    font-style: italic;
+    flex-basis: 15%;
+
+}
+
+#textBoxBlue {
+
+    
+    display: flex;
+    border: 2px solid darkblue;
+    justify-items: center;
+    font-style: bold;
+    flex-basis: 15%;
+    
+}
+
